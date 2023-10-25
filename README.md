@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Havid Rosihandanu</h1>
-<h3 align="center">A passionate Fullstack developer from Java</h3>
-<img src ="https://giphy.com/gifs/pudgypenguins-computer-chatgpt-chat-gpt-YbXLZ6dymH758xSEbM" align="right" width="400">
+<h3 align="center">A passionate Fullstack developer from Ponorogo</h3>
+<img src ="[https://giphy.com/gifs/pudgypenguins-computer-chatgpt-chat-gpt-YbXLZ6dymH758xSEbM](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0xzft2-cGqJkf5yu7Sg2--&ust=1698300771781000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNiUm8XFkIIDFQAAAAAdAAAAABAE)" align="right" width="400">
 
 - 🔭 I’m currently working on **Certification Web**
 
