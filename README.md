@@ -1,40 +1,46 @@
-<h1 align="center">Hi 👋, I'm Havid Rosihandanu</h1>
-<h3 align="center">Web Developer • Tech Learner • Based in Ponorogo</h3>
+<h1 align="center">🚀 Havid Rosihandanu 🚀</h1>
+<marquee><h3 align="center">Web Developer | UI/UX Enthusiast | Lifelong Learner</h3></marquee>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" align="right" width="400"/>
 
-- 🔭 Currently building: **Certification Web App**
-- 🌱 Learning stack: **React.js**, **RESTful API**, and **Laravel**
-- 🧠 Always exploring: **UI/UX**, **full-stack workflows**, and **automation**
-- 📫 Reach me at: **havidrosi05@gmail.com**
-- 💬 Let's talk about: **Web Development**, **Design Systems**, or **Tech Trends**
+🌍 From the creative heart of **Ponorogo**, I build web experiences with passion and precision.  
+🔭 Currently working on a **Web Certification Platform** to empower digital skills.  
+🌱 Diving deep into **React.js** and mastering **API development with Laravel**.  
+📬 Reach me at: **havidrosi05@gmail.com**
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
+### 🌐 Let's Connect:
 <p align="left">
-  <a href="https://instagram.com/rosihandanu_havid" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rosihandanu_havid" height="30" width="40" />
+  <a href="https://instagram.com/rosihandanu_havid" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-rosihandanu__havid-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+### 🛠️ Tech Stack:
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-<h3 align="left">📈 GitHub Stats</h3>
-<p align="left">
+### 💡 Motto:
+> _"Code with heart, design with soul, and learn like there's no finish line."_
+
+---
+
+### 📈 GitHub Stats (optional):
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=havidrosihandanu&show_icons=true&theme=radical" alt="Havid's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=havidrosihandanu&theme=radical" alt="Havid's GitHub streak"/>
 </p>
